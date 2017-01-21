@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">giftr</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="Friend_Button">To Friends List ></string>
+
+    <string name="Login_Failed">Login Failed</string>
+    <string name="Login_Successful">Login Successful</string>
+    <string name="Blank"> </string>
+    <string name="Login_Cancelled">Login Cancelled</string>
+
+    <string name="Friend_List_Title">Your Friends</string>
+    <string name="Friend_Likes">\'s Likes</string>
+    <string name="Recommended">Recommended Gifts</string>
+
+    <!--Facebook Related Strings-->
+    <string name="facebook_app_id">208033992976707</string>
+    <string name="fb_login_protocol_scheme">fb208033992976707</string>
+
+    <!--Firebase Related Strings-->
+    <string name="firebase_API_key">AIzaSyBSF-u2s2mNsJfFwkoZzqz5lcW3vEa-ebg</string>
+    <string name="firebase_App_ID">giftr-88404</string>
+</resources>
