@@ -1,0 +1,7 @@
+#Fri Oct 28 19:48:04 EDT 2016
+base.0=/Users/miroslavsanader/Desktop/Older Programming /DB/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4002cde1228f66520f2996723b3e971baf5b8fd1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/miroslavsanader/Desktop/Older Programming /DB/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1589a4d46e77991339cc21e78f58db4028d6a850/classes.dex
+base.1=/Users/miroslavsanader/Desktop/Older Programming /DB/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1589a4d46e77991339cc21e78f58db4028d6a850
+file.0=/Users/miroslavsanader/Desktop/Older Programming /DB/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4002cde1228f66520f2996723b3e971baf5b8fd1/classes.dex
